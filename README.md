@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/frankramosdev" target="blank"><img src="https://img.shields.io/twitter/follow/frankramosdev?logo=twitter&style=for-the-badge" alt="frankramosdev" /></a> </p>
 
-- 🌱 I’m currently learning **AI Coding**
+- 🤖 I’m currently building **AI Agent** apps in both Web and Mobile.
 
 - 💬 Ask me about **Swift, React Native, PostgreSQL**
 
